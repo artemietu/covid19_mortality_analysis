@@ -102,5 +102,4 @@ install.packages(c("tidyverse", "Hmisc"))
 
 ## Author
 
-Artemie Țurcanu — Data Analyst  
-artemietu@icloud.com
+Artemie Țurcanu — Data Analyst
